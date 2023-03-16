@@ -1,4 +1,4 @@
-#### Solving a real world data Science Task whith Python and Pandas
+#### Solving a real world data Science Task with Python and Pandas
 
 Este Jupyter notbook se desarrollo en su mayoria siguiendo el sigiente tutorial:
 https://www.youtube.com/watch?v=eMOA1pPVUc4&list=LL&index=3&t=4227s
